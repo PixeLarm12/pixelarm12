@@ -27,23 +27,23 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
    </a>
      
-   <a href="c" target="_blank">
+   <a href="https://gitlab.com/PixeLarm12" target="_blank">
     <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
    </a>
 
-   <a href="" target="_blank">
+   <a href="https://www.instagram.com/lucasramosdomingues/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
    </a>
 
-   <a href="" target="_blank">
+   <a href="https://www.linkedin.com/in/lucas-ramos-domingues/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
    </a>
 
-   <a href="" target="_blank">
+   <a href="https://twitter.com/LuCaS_RaMoS1295" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
    </a>
 
-   <a href="" target="_blank">
+   <a href="https://www.twitch.tv/pixe_larm" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
    </a>
 
@@ -64,5 +64,7 @@
 </div>
 
 <div>
-  <img align="right" alt="Lucas-Perfil" width="100" height="100" src="https://yt3.googleusercontent.com/iYJB0s2u-KHrTAAlJ9JR-zhjtlKSnjeVr2FVnmuZL6px45EVR4j2tTJzgNb3exRvTZoWG7srQw=s176-c-k-c0x00ffffff-no-rj"/>
+  <a href="https://www.youtube.com/pixelarm" target="_blank">
+    <img align="right" alt="Lucas-Perfil" width="100" height="100" src="https://yt3.googleusercontent.com/iYJB0s2u-KHrTAAlJ9JR-zhjtlKSnjeVr2FVnmuZL6px45EVR4j2tTJzgNb3exRvTZoWG7srQw=s176-c-k-c0x00ffffff-no-rj"/>
+  </a>
 </div>
