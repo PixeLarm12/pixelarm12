@@ -2,7 +2,7 @@
 
 ### About Me
 
-- 🔭 Actually working as full stack developer at Firework Web & Mobile, Bauru - SP, Brazil
+- 🔭 Actually working as full stack developer at Bauru - SP, Brazil
 - 💬 I'm always looking for new technologies, specially at web development and game development. 
 - 💻 Technical course in IT at CTI Bauru
 - 📜 Graduating Information Systems at UNESP Bauru (loading...)
